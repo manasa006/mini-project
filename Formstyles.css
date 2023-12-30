@@ -1,0 +1,45 @@
+.center1{
+    background-color: rgb(133, 14, 133);
+    margin: 100px;
+    border-radius: 30px;
+    padding: 100px 100px;
+    padding-bottom:100px;
+    
+}
+.head{
+    color:white;
+}
+.form1{
+    background-color: azure;
+    width:40%;
+    margin-bottom: 20px;
+    padding:20px;
+    border-radius: 30px;
+    align-items: start;
+    box-shadow: 0 5px 20px 2px rgba(0, 0, 0, 0.11);
+}
+label{
+    font-family: bold;
+    font-weight: bolder;
+    font-size: 30px;
+}
+input[type=text]{
+    width:60%;
+    border: 1px solid #8a8686;
+    border-radius: 10px;
+    font-size: 0.5cm;
+    margin: 10px 10px;
+    padding: 10px 20px;
+}
+input[type=password]{
+    width:60%;
+    border: 1px solid #8a8686;
+    font-size: 0.5cm;
+    border-radius: 10px;
+    margin: 10px 10px;
+    padding: 10px 20px;
+}
+.but{
+    background-color: blueviolet;
+    color: white;
+}
